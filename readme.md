@@ -1,100 +1,155 @@
 # oi-keiba
 
 
-```python
-    '1_chakujun',
-    '1_kyousoubi',
-    '1_babajoutai',
-    '1_shussoutousuu',
-    '1_keibajou',
-    '1_course',
-    '1_umaban',
-    '1_racemei',
-    '1_ninki',
-    '1_bataijuu',
-    '1_genryou',
-    '1_kishu',
-    '1_futanjuuryou',
-    '1_time',
-    '1_cornertsuukajun',
-    '1_agari3ftime',
-    '1_1chakubatonotimesa',
-    '1_1chakubamei',
-    
-    '2_chakujun',
-    '2_kyousoubi',
-    '2_babajoutai',
-    '2_shussoutousuu',
-    '2_keibajou',
-    '2_course',
-    '2_umaban',
-    '2_racemei',
-    '2_ninki',
-    '2_bataijuu',
-    '2_genryou',
-    '2_kishu',
-    '2_futanjuuryou',
-    '2_time',
-    '2_cornertsuukajun',
-    '2_agari3ftime',
-    '2_1chakubatonotimesa',
-    '2_1chakubamei',
-    
-    '3_chakujun',
-    '3_kyousoubi',
-    '3_babajoutai',
-    '3_shussoutousuu',
-    '3_keibajou',
-    '3_course',
-    '3_umaban',
-    '3_racemei',
-    '3_ninki',
-    '3_bataijuu',
-    '3_genryou',
-    '3_kishu',
-    '3_futanjuuryou',
-    '3_time',
-    '3_cornertsuukajun',
-    '3_agari3ftime',
-    '3_1chakubatonotimesa',
-    '3_1chakubamei',
-    
-    '4_chakujun',
-    '4_kyousoubi',
-    '4_babajoutai',
-    '4_shussoutousuu',
-    '4_keibajou',
-    '4_course',
-    '4_umaban',
-    '4_racemei',
-    '4_ninki',
-    '4_bataijuu',
-    '4_genryou',
-    '4_kishu',
-    '4_futanjuuryou',
-    '4_time',
-    '4_cornertsuukajun',
-    '4_agari3ftime',
-    '4_1chakubatonotimesa',
-    '4_1chakubamei',
-    
-    '5_chakujun',
-    '5_kyousoubi',
-    '5_babajoutai',
-    '5_shussoutousuu',
-    '5_keibajou',
-    '5_course',
-    '5_umaban',
-    '5_racemei',
-    '5_ninki',
-    '5_bataijuu',
-    '5_genryou',
-    '5_kishu',
-    '5_futanjuuryou',
-    '5_time',
-    '5_cornertsuukajun',
-    '5_agari3ftime',
-    '5_1chakubatonotimesa',
-    '5_1chakubamei',
-    
 ```
+    'r1_chakujun',
+    'r1_kyousoubi',
+    'r1_babajoutai',
+    'r1_shussoutousuu',
+    'r1_keibajou',
+    'r1_course',
+    'r1_umaban',
+    'r1_racemei',
+    'r1_ninki',
+    'r1_bataijuu',
+    'r1_genryou',
+    'r1_kishu',
+    'r1_futanjuuryou',
+    'r1_time',
+    'r1_cornertsuukajun',
+    'r1_agari3ftime',
+    'r1_1chakubatonotimesa',
+    'r1_1chakubamei',
+    'r2_chakujun',
+    'r2_kyousoubi',
+    'r2_babajoutai',
+    'r2_shussoutousuu',
+    'r2_keibajou',
+    'r2_course',
+    'r2_umaban',
+    'r2_racemei',
+    'r2_ninki',
+    'r2_bataijuu',
+    'r2_genryou',
+    'r2_kishu',
+    'r2_futanjuuryou',
+    'r2_time',
+    'r2_cornertsuukajun',
+    'r2_agari3ftime',
+    'r2_1chakubatonotimesa',
+    'r2_1chakubamei',
+    'r3_chakujun',
+    'r3_kyousoubi',
+    'r3_babajoutai',
+    'r3_shussoutousuu',
+    'r3_keibajou',
+    'r3_course',
+    'r3_umaban',
+    'r3_racemei',
+    'r3_ninki',
+    'r3_bataijuu',
+    'r3_genryou',
+    'r3_kishu',
+    'r3_futanjuuryou',
+    'r3_time',
+    'r3_cornertsuukajun',
+    'r3_agari3ftime',
+    'r3_1chakubatonotimesa',
+    'r3_1chakubamei',
+    'r4_chakujun',
+    'r4_kyousoubi',
+    'r4_babajoutai',
+    'r4_shussoutousuu',
+    'r4_keibajou',
+    'r4_course',
+    'r4_umaban',
+    'r4_racemei',
+    'r4_ninki',
+    'r4_bataijuu',
+    'r4_genryou',
+    'r4_kishu',
+    'r4_futanjuuryou',
+    'r4_time',
+    'r4_cornertsuukajun',
+    'r4_agari3ftime',
+    'r4_1chakubatonotimesa',
+    'r4_1chakubamei',
+    'r5_chakujun',
+    'r5_kyousoubi',
+    'r5_babajoutai',
+    'r5_shussoutousuu',
+    'r5_keibajou',
+    'r5_course',
+    'r5_umaban',
+    'r5_racemei',
+    'r5_ninki',
+    'r5_bataijuu',
+    'r5_genryou',
+    'r5_kishu',
+    'r5_futanjuuryou',
+    'r5_time',
+    'r5_cornertsuukajun',
+    'r5_agari3ftime',
+    'r5_1chakubatonotimesa',
+    'r5_1chakubamei',
+```
+
+```
+kyousoubi, weekday, kyousou, hassoujikoku, henkou, kyousoushurui, kyousoumei, course, tenkou, baba, tousuu, wakuban, umaban, bamei, seirei, keiro, chichimei, hahamei, hahachichimei, kishu, futanjuuryou, kijouseiseki, choukyoushi, banushi, seisanbokujou, odds, ninki, bataijuu, zougen, henkoujouhou, r1_chakujun, r1_kyousoubi, r1_babajoutai, r1_shussoutousuu, r1_keibajou, r1_course, r1_umaban, r1_racemei, r1_ninki, r1_bataijuu, r1_genryou, r1_kishu, r1_futanjuuryou, r1_time, r1_cornertsuukajun, r1_agari3ftime, r1_1chakubatonotimesa, r1_1chakubamei, r2_chakujun, r2_kyousoubi, r2_babajoutai, r2_shussoutousuu, r2_keibajou, r2_course, r2_umaban, r2_racemei, r2_ninki, r2_bataijuu, r2_genryou, r2_kishu, r2_futanjuuryou, r2_time, r2_cornertsuukajun, r2_agari3ftime, r2_1chakubatonotimesa, r2_1chakubamei, r3_chakujun, r3_kyousoubi, r3_babajoutai, r3_shussoutousuu, r3_keibajou, r3_course, r3_umaban, r3_racemei, r3_ninki, r3_bataijuu, r3_genryou, r3_kishu, r3_futanjuuryou, r3_time, r3_cornertsuukajun, r3_agari3ftime, r3_1chakubatonotimesa, r3_1chakubamei, r4_chakujun, r4_kyousoubi, r4_babajoutai, r4_shussoutousuu, r4_keibajou, r4_course, r4_umaban, r4_racemei, r4_ninki, r4_bataijuu, r4_genryou, r4_kishu, r4_futanjuuryou, r4_time, r4_cornertsuukajun, r4_agari3ftime, r4_1chakubatonotimesa, r4_1chakubamei, r5_chakujun, r5_kyousoubi, r5_babajoutai, r5_shussoutousuu, r5_keibajou, r5_course, r5_umaban, r5_racemei, r5_ninki, r5_bataijuu, r5_genryou, r5_kishu, r5_futanjuuryou, r5_time, r5_cornertsuukajun, r5_agari3ftime, r5_1chakubatonotimesa, r5_1chakubamei, zenseiseki, dirthidarimawari, dirtmigimawari, toucourse
+'kyousoubi', 'weekday', 'kyousou', 'hassoujikoku', 'henkou', 'kyousoushurui', 'kyousoumei', 'course', 'tenkou', 'baba', 'tousuu', 'wakuban', 'umaban', 'bamei', 'seirei', 'keiro', 'chichimei', 'hahamei', 'hahachichimei', 'kishu', 'futanjuuryou', 'kijouseiseki', 'choukyoushi', 'banushi', 'seisanbokujou', 'odds', 'ninki', 'bataijuu', 'zougen', 'henkoujouhou', 'r1_chakujun', 'r1_kyousoubi', 'r1_babajoutai', 'r1_shussoutousuu', 'r1_keibajou', 'r1_course', 'r1_umaban', 'r1_racemei', 'r1_ninki', 'r1_bataijuu', 'r1_genryou', 'r1_kishu', 'r1_futanjuuryou', 'r1_time', 'r1_cornertsuukajun', 'r1_agari3ftime', 'r1_1chakubatonotimesa', 'r1_1chakubamei', 'r2_chakujun', 'r2_kyousoubi', 'r2_babajoutai', 'r2_shussoutousuu', 'r2_keibajou', 'r2_course', 'r2_umaban', 'r2_racemei', 'r2_ninki', 'r2_bataijuu', 'r2_genryou', 'r2_kishu', 'r2_futanjuuryou', 'r2_time', 'r2_cornertsuukajun', 'r2_agari3ftime', 'r2_1chakubatonotimesa', 'r2_1chakubamei', 'r3_chakujun', 'r3_kyousoubi', 'r3_babajoutai', 'r3_shussoutousuu', 'r3_keibajou', 'r3_course', 'r3_umaban', 'r3_racemei', 'r3_ninki', 'r3_bataijuu', 'r3_genryou', 'r3_kishu', 'r3_futanjuuryou', 'r3_time', 'r3_cornertsuukajun', 'r3_agari3ftime', 'r3_1chakubatonotimesa', 'r3_1chakubamei', 'r4_chakujun', 'r4_kyousoubi', 'r4_babajoutai', 'r4_shussoutousuu', 'r4_keibajou', 'r4_course', 'r4_umaban', 'r4_racemei', 'r4_ninki', 'r4_bataijuu', 'r4_genryou', 'r4_kishu', 'r4_futanjuuryou', 'r4_time', 'r4_cornertsuukajun', 'r4_agari3ftime', 'r4_1chakubatonotimesa', 'r4_1chakubamei', 'r5_chakujun', 'r5_kyousoubi', 'r5_babajoutai', 'r5_shussoutousuu', 'r5_keibajou', 'r5_course', 'r5_umaban', 'r5_racemei', 'r5_ninki', 'r5_bataijuu', 'r5_genryou', 'r5_kishu', 'r5_futanjuuryou', 'r5_time', 'r5_cornertsuukajun', 'r5_agari3ftime', 'r5_1chakubatonotimesa', 'r5_1chakubamei', 'zenseiseki', 'dirthidarimawari', 'dirtmigimawari', 'toucourse'
+```
+
+
+        i += 1
+        if len(elms_td[i].text) != 0:
+            r3_chakujun = elms_td[i].text.split()[0]
+            r3_kyousoubi = elms_td[i].text.split()[1]
+            r3_babajoutai = elms_td[i].text.split()[2]
+            r3_shussoutousuu = elms_td[i].text.split()[3]
+            r3_keibajou = elms_td[i].text.split()[4]
+            r3_course = elms_td[i].text.split()[5]
+            r3_umaban = elms_td[i].text.split()[6]
+        else:
+            r3_chakujun = np.nan
+            r3_kyousoubi = np.nan
+            r3_babajoutai = np.nan
+            r3_shussoutousuu = np.nan
+            r3_keibajou = np.nan
+            r3_course = np.nan
+            r3_umaban = np.nan
+
+        i += 1
+        if len(elms_td[i].text) != 0:
+            r4_chakujun = elms_td[i].text.split()[0]
+            r4_kyousoubi = elms_td[i].text.split()[1]
+            r4_babajoutai = elms_td[i].text.split()[2]
+            r4_shussoutousuu = elms_td[i].text.split()[3]
+            r4_keibajou = elms_td[i].text.split()[4]
+            r4_course = elms_td[i].text.split()[5]
+            r4_umaban = elms_td[i].text.split()[6]
+        else:
+            r4_chakujun = np.nan
+            r4_kyousoubi = np.nan
+            r4_babajoutai = np.nan
+            r4_shussoutousuu = np.nan
+            r4_keibajou = np.nan
+            r4_course = np.nan
+            r4_umaban = np.nan
+
+        i += 1
+        if len(elms_td[i].text) != 0:
+            r5_chakujun = elms_td[i].text.split()[0]
+            r5_kyousoubi = elms_td[i].text.split()[1]
+            r5_babajoutai = elms_td[i].text.split()[2]
+            r5_shussoutousuu = elms_td[i].text.split()[3]
+            r5_keibajou = elms_td[i].text.split()[4]
+            r5_course = elms_td[i].text.split()[5]
+            r5_umaban = elms_td[i].text.split()[6]
+        else:
+            r5_chakujun = np.nan
+            r5_kyousoubi = np.nan
+            r5_babajoutai = np.nan
+            r5_shussoutousuu = np.nan
+            r5_keibajou = np.nan
+            r5_course = np.nan
+            r5_umaban = np.nan
